@@ -19,6 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'link1345', // Usually your GitHub org/user name.
   projectName: 'homepage.github.io', // Usually your repo name.
+  deploymentBranch: 'deploymentBranch',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
